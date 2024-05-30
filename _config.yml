@@ -57,10 +57,10 @@ plugins:
 
 nav:
   - title: "Home"
-    url: "/"
+    url: "https://jasminebro.github.io/"
   - title: "About"
-    url: "/about/"
+    url: "https://jasminebro.github.io/about/"
   - title: "Contact"
-    url: "/contact/"
+    url: "https://jasminebro.github.io/contact/"
   - title: "Publications"
-    url: "/publications/"
+    url: "https://jasminebro.github.io//publications/"
