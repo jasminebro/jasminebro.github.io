@@ -31,7 +31,7 @@ url: "https://github.com/jasminebro/jasminebro.github.io" # the base hostname & 
 github_username: jasminebro
 
 # Build settings
-theme: minima
+theme: minimal
 plugins:
   - jekyll-feed
 
@@ -54,3 +54,13 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Contact"
+    url: "/contact/"
+  - title: "Publications"
+    url: "/publications/"
