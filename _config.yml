@@ -31,7 +31,7 @@ url: "https://github.com/jasminebro/jasminebro.github.io" # the base hostname & 
 github_username: jasminebro
 
 # Build settings
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
