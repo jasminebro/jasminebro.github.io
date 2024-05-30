@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: jhttps://jasminebro.github.io/contact/
+permalink: https://jasminebro.github.io/contact/
 ---
 
 # Contact Me
