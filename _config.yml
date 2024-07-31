@@ -21,10 +21,7 @@
 title: Jasmine Baker, PhD
 email: jasminebro2@gmail.com
 description: >
-  Welcome to my page. Let's see if this works!
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to my personal webpage.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.com/jasminebro/jasminebro.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
