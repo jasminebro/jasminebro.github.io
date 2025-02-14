@@ -4,7 +4,6 @@ title:  "Welcome to my website!"
 date:   2024-05-30 13:44:28 -0500
 categories: blog
 ---
-Welcome to My Personal Website – Dr. Jasmine Baker
 
 Hello and welcome! I’m Dr. Jasmine Baker, a scientist deeply passionate about genomic variants and their potential to transform healthcare. Through the power of computation, research, and scientific communication, I strive to make a lasting impact on precision medicine and population health.
 
