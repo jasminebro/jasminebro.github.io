@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py, r, git, html, sqlite, bitbucket, linux, md, anaconda, bash" />
+  <img src="https://skillicons.dev/icons?i=py,r,git,html,sqlite,bitbucket,linux,md,anaconda,bash"/>
 </p>
 
 <hr>
