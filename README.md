@@ -12,3 +12,13 @@
 </h1>
 
 ### I am Jasmine Baker, PhD --> A scientist passionate about variants and impacting healthcare through computation, research, and scientific communication.
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py, r, git, html, sqlite, bitbucket, linux, md, anaconda, bash" />
+</p>
+
+<hr>
