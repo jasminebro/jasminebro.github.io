@@ -22,3 +22,15 @@
 </p>
 
 <hr>
+
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=jasminebro&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="JasmineBaker's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=jasminebro&theme=transparent&count_private=true&border_radius=10&locale=en" alt="JasmineBaker's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=jasminebro&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="JasmineBaker's Most Used Languages" />
+</div>
+
+<hr>
